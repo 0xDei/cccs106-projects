@@ -1,15 +1,14 @@
 [project]
-name = "userlogin"
+name = "contact-book-app"
 version = "0.1.0"
 description = ""
 readme = "README.md"
 requires-python = ">=3.9"
 authors = [
-    { name = "Deiven Joseph Pimentel", email = "depimentel@my.cspc.edu.ph" }
+    { name = "Flet developer", email = "you@example.com" }
 ]
 dependencies = [
-  "flet==0.28.3",
-  "mysql-connector-python==9.0.0"
+  "flet==0.28.3"
 ]
 
 [tool.flet]
@@ -19,7 +18,7 @@ org = "com.mycompany"
 
 # project display name that is used as an app title on Android and iOS home screens,
 # shown in window titles and about app dialogs on desktop.
-product = "userlogin"
+product = "contact-book-app"
 
 # company name to display in about app dialogs
 company = "Flet"
