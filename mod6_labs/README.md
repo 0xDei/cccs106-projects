@@ -57,7 +57,7 @@ This weather application is a Python-based weather forecast application built us
 ### Setup Instructions
 ```bash
 # Clone the repository
-git clone https://github.com/<username>/cccs106-projects.git
+git clone https://github.com/0xDei/cccs106-projects.git
 cd cccs106-projects/mod6_labs
 
 # Create virtual environment
